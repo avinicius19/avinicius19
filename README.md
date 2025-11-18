@@ -1,12 +1,4 @@
-### Olá, eu sou  Antonio Vinicius! ✌️
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/antoniovinicius10/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-vinicius-ferreira-costa-81ab6322a/)
-
-
-![Antonio GitHub stats](https://github-readme-stats.vercel.app/api?username=avinicius19&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinicius19)](https://github.com/anuraghazra/github-readme-stats)
+### Olá, eu sou  Antonio! ✌️
 
 ### Tecnologias que uso no meu dia-dia.
 
