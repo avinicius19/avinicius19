@@ -44,4 +44,4 @@
 
 ---
 
-<p align="center">Sempre evoluindo, um passo por vez. ✨</p>
+<p align="center">Sempre evoluindo, um passo por vez.</p>
