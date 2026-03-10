@@ -26,6 +26,7 @@ Em evolução constante para atuar como <strong>desenvolvedor Full Stack</strong
 - 🎓 Formado em **Administração**
 - 💻 Foco atual em **React, JavaScript e desenvolvimento de interfaces**
 - ⚙️ Estudando **Node.js** para evolução como **Full Stack**
+- 📚 Atualmente trabalhando como Analista Financeiro**
 - 📚 Aprendizado baseado em **projetos reais e prática constante**
 
 Minha trajetória une tecnologia com visão estratégica de negócios, buscando desenvolver soluções digitais eficientes e bem estruturadas.
