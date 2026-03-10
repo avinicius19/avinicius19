@@ -5,15 +5,6 @@ Desenvolvedor focado em <strong>JavaScript e React</strong>, criando interfaces 
 Em evolução constante para atuar como <strong>desenvolvedor Full Stack</strong>, construindo projetos práticos e aplicando boas práticas de desenvolvimento.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/antonio-costa-3bab83319/">
-    <img src="https://img.shields.io/badge/LinkedIn-Antonio%20Costa-0A66C2?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://avincicius19.github.io">
-    <img src="https://img.shields.io/badge/Portfólio-Ver%20Projetos-38bdf8?style=for-the-badge">
-  </a>
-</p>
-
 ---
 
 # 🚀 Tecnologias
