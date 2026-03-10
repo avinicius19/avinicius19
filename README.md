@@ -1,4 +1,4 @@
-<h1 align="center">Antonio Vinicius Costa • Desenvolvedor Front-end</h1>
+<h1 align="center">Antonio Costa • Desenvolvedor Front-end</h1>
 
 <p align="center">
 Desenvolvedor focado em <strong>JavaScript e React</strong>, criando interfaces modernas e funcionais.  
